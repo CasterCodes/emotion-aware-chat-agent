@@ -9,7 +9,7 @@ A multi-agent conversational AI that classifies user input as either **emotional
 - 🔀 Message classifier routes input based on emotional vs logical context
 - 🤗 Therapist agent provides empathetic, supportive responses
 - 📊 Logical agent delivers direct, factual answers
-- 🧱 Built using [LangGraph](https://docs.langchain.com/langgraph/) stateful workflows
+- 🧱 Built using [LangGraph](https://langchain-ai.github.io/langgraph/concepts/why-langgraph/) stateful workflows
 - ⚡ Uses `uv` for fast dependency management
 
 ---
@@ -28,3 +28,4 @@ A multi-agent conversational AI that classifies user input as either **emotional
 ```bash
 git clone https://github.com/CasterCodes/emotion-aware-chat-agent.git
 cd emotion-aware-chat-agent
+```
